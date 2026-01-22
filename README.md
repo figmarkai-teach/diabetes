@@ -48,10 +48,4 @@ A Decision Tree builds classification rules using branching conditions on featur
 5. Model Evaluation  
 6. Prediction / Testing  
 
----
 
-## 📌 Steps Performed
-### 1️⃣ Upload Dataset (Google Colab)
-```python
-from google.colab import files
-files.upload()
